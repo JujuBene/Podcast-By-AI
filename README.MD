@@ -62,7 +62,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     </a>
     &nbsp;|&nbsp;
    
-    &nbsp;|&nbsp;</p>
+   
 </p>
 <br/><br/>
 <p>
