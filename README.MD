@@ -42,7 +42,7 @@ Projeto com o objetivo de criar um episódio piloto de podcast (≈5 minutos) to
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro para geração do roteiro 'Chatgpt'
+- 🤖 1. Use os prompts de roteiro para geração do roteiro `ChatGPT`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt para gerar a síntese de voz no `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `Gemini`
 
