@@ -50,18 +50,17 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 <p>
 
-    <p>&nbsp&nbsp&nbspJuliana Benedetti<br>
-    &nbsp&nbsp&nbsp
+    <p>Juliana Benedetti<br>
     <a 
         href="https://github.com/JujuBene">
         GitHub
     </a>
-    &nbsp;|&nbsp;
+ 
     <a 
         href="https://www.linkedin.com/in/juliana-magiero-benedetti/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
+
    
 </p>
 <br/><br/>
