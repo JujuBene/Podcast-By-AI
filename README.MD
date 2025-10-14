@@ -60,7 +60,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         href="https://www.linkedin.com/in/juliana-magiero-benedetti/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
+ 
    
    
 </p>
