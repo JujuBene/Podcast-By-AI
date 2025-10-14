@@ -61,10 +61,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
+   
     &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
