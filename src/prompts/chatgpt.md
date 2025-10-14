@@ -6,5 +6,5 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo para um podcast que sera abordado o tema de IA generativa, esse titulo quero que seja algo que chame a atenção para as pessoas ouvirem o podcast      |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um roteiro para esse podcast que sera de aproximadamente 5 min o primeiro ep abordando os conceitos principais e mais importantes da IA Generativa. Pode colocar tambem 2 pessoas conversando e debatendo sobre esse assunto |
 
