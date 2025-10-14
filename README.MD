@@ -49,15 +49,15 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJuliana Benedetti<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/JujuBene">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/juliana-magiero-benedetti/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
