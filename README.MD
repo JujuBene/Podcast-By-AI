@@ -17,71 +17,55 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este documento foi criado a partir do roteiro do Episódio 1 — "O que é, afinal, a IA Generativa?" — e estrutura o projeto para reprodução automática usando ferramentas de IA.
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de criar um episódio piloto de podcast (≈5 minutos) totalmente gerado com auxílio de IA, usando uma esteira de prompts para automatizar as etapas criativas: roteiro, voz, capa e edição.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Gemini](https://gemini.google.com/?hl=pt-BR)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
+
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
-
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- Roteiro gerado via ChatGPT: estrutura de abertura, diálogo entre dois apresentadores (Ana e Lucas), partes conceituais e chamadas finais.
+- Vozes: prompts para ElevenLabs usando a conversão do roteiro em falas, com marcações de entonação e pausas.
+- Artes: prompts para Gemini para gerar capas (várias variações).
+- Edição: importação do áudio sintetizado no CapCut para equalização, adição de trilha sonora e cortes finais.
 
 
 ## 🛠️ Instruções de execução
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 1. Use os prompts de roteiro para geração do roteiro (ChatGPT)
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt para gerar a síntese de voz no `ElevenLabs`
+- 🤖 3. Use os prompts de artes no `Gemini`
 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+
+    <p>&nbsp&nbsp&nbspJuliana Benedetti<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/JujuBene">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/juliana-magiero-benedetti/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+   
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
